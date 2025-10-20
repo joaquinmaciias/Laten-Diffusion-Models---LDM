@@ -1,7 +1,7 @@
 # Latent Diffusion Models (LDM) with Hugging Face Diffusers
 
-<p align="left">
-<img src="https://i.ibb.co/S7Z9K4Qt/Screenshot-2025-09-20-at-09-25-01.png"  alt="sd-pipeline" width="700"/>
+<p align="center">
+  <img src="LDM_img.png" width="700"/>
 </p>
 
 ## Introduction
@@ -36,3 +36,8 @@ We use **Stable Diffusion v1.4** as a case study — breaking down its main comp
 
 ## Install the required dependencies:
   pip install -U diffusers transformers accelerate ftfy scipy datasets torchvision pyarrow matplotlib pillow tqdm
+
+  ## Repository Structure
+
+- `Jupyternotebook.ipynb` → main notebook with the full workflow.  
+- `LDM_img.png` → illustration of the laten diffusion process.  
