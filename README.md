@@ -1,7 +1,7 @@
 # Latent Diffusion Models (LDM) with Hugging Face Diffusers
 
 <p align="center">
-  <img src="LDM_img.png" width="700"/>
+  <img src="LDM_img.png" width="600"/>
 </p>
 
 ## Introduction
