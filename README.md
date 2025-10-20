@@ -1,5 +1,9 @@
 # Latent Diffusion Models (LDM) with Hugging Face Diffusers
 
+<p align="left">
+<img src="https://i.ibb.co/S7Z9K4Qt/Screenshot-2025-09-20-at-09-25-01.png"  alt="sd-pipeline" width="700"/>
+</p>
+
 ## Introduction
 This project is a hands-on guide to understanding and **rebuilding step by step** the *pipeline* of **Latent Diffusion Models (LDM)** using the **Hugging Face Diffusers** library.  
 We use **Stable Diffusion v1.4** as a case study — breaking down its main components (VAE, U-Net, CLIP text encoder), implementing the *denoising loop* in **latent space**, comparing multiple *sampling schedulers* (including **DDIM**, **PNDM**, **DPM++**, **UniPC**), and evaluating text–image alignment with **CLIPScore**.
